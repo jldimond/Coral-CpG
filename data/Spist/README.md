@@ -1,0 +1,2 @@
+The FASTA file Spist.fasta is a *Stylophora pistillata* transcriptome downloaded from http://data.centrescientifique.mc/Data/454Isotigs.fas.zip on 2/17/2015. It was featured in an article by [Karako-Lampert et al. 2014](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088615). The transcriptome was developed from adult coral tissue. Samples were pooled from a number of depths, temperature conditions, and pH conditions to increase the breadth of gene expression represented.
+
