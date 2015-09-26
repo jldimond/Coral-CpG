@@ -10,6 +10,22 @@ _Each subdirectory has its own readme file describing the contents._
 
 `data/` - Raw data, including publically available fasta data. These are housed in separate subdirectories for each species.
 
+Coral species subdirectories include:
+
+  `data/Ahya` - *Acropora hyacinthus* 
+  
+  `data/Amil` - *Acropora millepora* 
+  
+  `data/Apalm` - *Acropora palmata* 
+  
+  `data/Past` - *Porites astreoides* 
+  
+  `data/Pdam` - *Pocillopora damicornis* 
+  
+  `data/Spist` - *Stylophora pistillata* 
+  
+
+
 --- 
 
 `ipynb/` - jupyter notebooks.
@@ -17,20 +33,8 @@ _Each subdirectory has its own readme file describing the contents._
 
 ---
 
-`analyses/` - Includes subdirectories for each coral species analyzed, which include output from analyses performed in jupyter (formerly IPython) notebooks. Also includes a `scripts/` directory where R scripts used for graphics and statistical analyses are housed, as well as scripts called on from jupyter notebooks. Coral species subdirectories include:
+`analyses/` - Includes subdirectories for each coral species analyzed, which include output from analyses performed in jupyter (formerly IPython) notebooks. Also includes a `scripts/` directory where R scripts used for graphics and statistical analyses are housed, as well as scripts called on from jupyter notebooks. 
 
-  `analyses/Ahya` - *Acropora hyacinthus* 
-  
-  `analyses/Amil` - *Acropora millepora* 
-  
-  `analyses/Apalm` - *Acropora palmata* 
-  
-  `analyses/Past` - *Porites astreoides* 
-  
-  `analyses/Pdam` - *Pocillopora damicornis* 
-  
-  `analyses/Spist` - *Stylophora pistillata* 
-  
 ---
 
 
