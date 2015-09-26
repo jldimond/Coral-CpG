@@ -41,12 +41,9 @@ _Each subdirectory has its own readme file describing the contents._
 * IPython: 3.1.0
 * R: 3.1.3  
 * NCBI Blast: 2.2.3 
-
 ---
 
----
-
-**Workflow** 
+###General notes on workflow
 
 The workflow for each species starts with jupyter notebooks ending with the suffix "_blast_anno.ipynb", which performs a blast annotation of the transcriptome and provides instructions for further annotation with GOSlim terms. Next, CpG O/E analysis is carried out in jupyter notebooks with the suffix "_CpG_ratio.ipynb". The remainder of analyses are conducted in R using the following scripts: 
 
