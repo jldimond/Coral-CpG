@@ -2,6 +2,8 @@ Apalmata_assembled.fasta is a transcriptome essembly for *Acopora palmata* downl
 
 day1and2.txt is a file listing contigs that were differentially expressed in response to *either* one or two days of thermal stress. The samples were also *A. palmata* larvae. The file was derived from an [Excel file containing supplementary data](http://datadryad.org/bitstream/handle/10255/dryad.39350/SuppTableS3_Final.xlsx?sequence=1) that was presented in [Polato et al. (2013)](http://onlinelibrary.wiley.com.offcampus.lib.washington.edu/doi/10.1111/mec.12163/abstract).
 
+GSE36983_series_matrix.txt is a text file that includes gene expression counts from [Polato et al. (2013)](http://onlinelibrary.wiley.com.offcampus.lib.washington.edu/doi/10.1111/mec.12163/abstract). It was downloaded from the NCBI Gene Expression Omnibus database (GEO) under accession number GSE36983 on 9/7/2015.
+
 From the datadryad repository:
 
 When using this data, please cite the original publication:

@@ -2,3 +2,5 @@ The FASTA file Amil.Moya.fasta is a transcriptome for Acropora millepora downloa
 
 
 The file Moya_OA_genes.csv is a list of differentially expressed contigs in response to ocean acidification derived from a [supplementary data file](http://onlinelibrary.wiley.com/store/10.1111/j.1365-294X.2012.05554.x/asset/supinfo/MEC_5554_sm_FigS1-S3_TableS1-S9.pdf?v=1&s=8986ebf969c7552ad857973fff80a0752f87a129) featured in the same article above. The contig IDs are the same as in the transcriptome and can be joined using common contig IDs.
+
+The directory GSE33016_RAW contains gene expression counts for *A. millepora*, from the same study above, downloaded from NCBI Gene Expression Omnibus (GEO) database under accession number GSE33016, on 9/7/2015.
