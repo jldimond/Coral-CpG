@@ -1,18 +1,16 @@
-# Germline DNA methylation in six species of reef corals: patterns and potential roles in response to environmental change
+## Juptyer notebooks and other analyses associated with manuscript: _Germline DNA methylation in six species of reef corals: patterns and potential roles in response to environmental change_
 
 ---
 
-This respository includes data and analysis associated with the above manuscript.
+###Description of repository directory structure
 
----
+_Each subdirectory has its own readme file describing the contents._
 
-**Directory structure**    
+---   
 
+`data/` - Raw data, including publically available fasta data. These are housed in separate subdirectories for each species.
 
-`data/` - Raw data, such as fasta files. These are housed in separate subdirectories for each species, with the same names as those in the analyses directory.
-
----  
-
+--- 
 
 `ipynb/` - jupyter notebooks.
 
@@ -37,7 +35,7 @@ This respository includes data and analysis associated with the above manuscript
 
 
 
-Sofware versions originally used in this analyses (on Mac OS X v10.10.3) include: 
+### Sofware versions originally used in this analyses (on Mac OS X v10.10.3) include: 
 
 * Python: 2.7.9  
 * IPython: 3.1.0
@@ -46,11 +44,11 @@ Sofware versions originally used in this analyses (on Mac OS X v10.10.3) include
 
 ---
 
-#Instructions for full annotation and analysis (interactive execution) notebook
+###Instructions for full annotation and analysis (interactive execution) notebook
 
 1) **Before you get started**
 
-To execute the jupter (Ipython, `.ipynb`) notebooks in their entirety you will need:   
+To execute the jupyter (Ipython, `.ipynb`) notebooks in their entirety you will need:   
 
 * IPython - [install instructions](http://ipython.org/install.html)    
 * NBCI Blast -  [install instructions](http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)  
