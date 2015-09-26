@@ -1,4 +1,4 @@
-## Jupyter notebooks and other analyses associated with manuscript: _Germline DNA methylation in six species of reef corals: patterns and potential roles in response to environmental change_
+## Analyses and data associated with manuscript: _Germline DNA methylation in six species of reef corals: patterns and potential roles in response to environmental change_
 
 ---
 
