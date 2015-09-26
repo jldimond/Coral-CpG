@@ -2,11 +2,22 @@
 
 ---
 
-This respository includes files used to develop a manuscript on DNA methylation patterns in six species of reef corals, including analysis of genes differentially expressed in response to environmental change. The repository is tied to an [Authorea manuscript](https://www.authorea.com/users/16716/articles/18248/_show_article).
+This respository includes data and analysis associated with the above manuscript.
 
 ---
 
-**Directory structure**      
+**Directory structure**    
+
+
+`data/` - Raw data, such as fasta files. These are housed in separate subdirectories for each species, with the same names as those in the analyses directory.
+
+---  
+
+
+`ipynb/` - jupyter notebooks.
+
+
+---
 
 `analyses/` - Includes subdirectories for each coral species analyzed, which include output from analyses performed in jupyter (formerly IPython) notebooks. Also includes a `scripts/` directory where R scripts used for graphics and statistical analyses are housed, as well as scripts called on from jupyter notebooks. Coral species subdirectories include:
 
@@ -22,46 +33,9 @@ This respository includes files used to develop a manuscript on DNA methylation 
   
   `analyses/Spist` - *Stylophora pistillata* 
   
-
-`bibliography/` - Houses a .bib file used in Authorea.
-
-`data/` - Raw data, such as fasta files. These are housed in separate subdirectories for each species, with the same names as those in the analyses directory.
-
-`figures/` - Manuscript figures.
-
-`ipynb/` - jupyter notebooks.
-
-`.gitignore` - File instructing git to ignore large files	for upload.
-
-The following files are components of the manuscript itself. The [Authorea interface](https://www.authorea.com/users/16716/articles/18248/_show_article) combines these files for better readability.
-
-`abstract.md`
-
-`acknowledgements.md`
-
-`author_contributions.md`
-	
-`data_accessibility.md`
-
-`discussion.md` 
-
-`header.tex` 
-
-`introduction.md` 
-
-`layout.md` 	
-
-`methods.md` 
-
-`outline.md` 	
-
-`preamble.tex` 	
-
-`results.md` 
-
-`title.tex`
-
 ---
+
+
 
 Sofware versions originally used in this analyses (on Mac OS X v10.10.3) include: 
 
