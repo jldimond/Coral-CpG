@@ -22,7 +22,11 @@ Notebooks end with the following suffixes:
 
 `_CpG_ratio.ipynb` - Analyzes CpG O/E.
 
-`_zoox_removal.ipynb` - Identifies putative *Symbiodinium* sequences for removal.
+`_zoox_removal.ipynb` - Identifies putative *Symbiodinium* sequences for removal (Pdam and Spist only).
+
+`_expression.ipynb` - Joins expression count data with CpG O/E data (only for Ahya, Amil, and Apalm).
+
+`_exp_CpG_ratio.ipynb` - Only for Amil; performs CpG O/E calculation on Amil transcriptome using GenBank accession numbers for contig IDs. This was necessary to join this data with expression data.
 
 ---
 
