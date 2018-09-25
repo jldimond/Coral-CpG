@@ -1,4 +1,4 @@
-## Analyses and data associated with manuscript: _Germline DNA methylation in six species of reef corals: patterns and potential roles in response to environmental change_
+## Analyses and data associated with manuscript: [_Germline DNA methylation in six species of reef corals: patterns and potential roles in response to environmental change_ ](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.13414)
 
 ---
 
